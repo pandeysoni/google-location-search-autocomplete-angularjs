@@ -6,4 +6,4 @@ look into the app.js file
 
 use directive in html page using this
 
-<pre><input ng-model="chosenPlace" googleplace/></pre>
+<pre>input ng-model="chosenPlace" googleplace</pre>
